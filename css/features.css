@@ -1,0 +1,38 @@
+.features {
+  background-color: mediumseagreen;
+  padding: 32px !important;
+  /* padding-top: 32px !important; */
+  /* padding-bottom: 32px !important; */
+}
+
+.features--container {
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0 16px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 256px;
+}
+
+.img-card-container {
+  border: solid 2px white;
+  border-radius: 8px;
+  width: 100%;
+  height: 100%;
+}
+
+.img-card {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  object-position: center;
+}
