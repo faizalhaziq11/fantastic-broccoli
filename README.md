@@ -9,4 +9,4 @@ lukas
 nishant patel
 polina tankilevitch
 
-for the images that I used in this project
+from pexels for the images that I used in this project
